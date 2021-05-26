@@ -1,2 +1,5 @@
-# go_by_example
-go by example: &lt;https://gobyexample.com/>
+# go_practice
+
+learn golang:
+
+- go by example: <https://gobyexample.com/>
